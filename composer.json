@@ -1,0 +1,22 @@
+{
+    "name": "azhargiri/codeigniter3-standard",
+    "description": "CodeIgniter 3 Coding Standard for PHP Code Sniffer 3",
+    "type": "library",
+    "version": "dev-master",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Louis Linehan",
+            "email": "louis.linehan@gmail.com"
+        }
+    ],
+    "require": {
+        "squizlabs/php_codesniffer": "3.*"
+    },
+    "minimum-stability": "dev",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "master"
+        }
+    }
+}
